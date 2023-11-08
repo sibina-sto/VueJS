@@ -6,4 +6,4 @@
 
 ## 02 Lecture
 
-- https://flaviocopes.com/vue-methods-watchers-computed-properties/
+- Vue methods vs watchers vs computed properties https://flaviocopes.com/vue-methods-watchers-computed-properties/
