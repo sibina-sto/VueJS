@@ -1,6 +1,6 @@
 # Notes
 
-## Important resourcess
+## Important resources
 
 - Official docs https://vuejs.org/guide/introduction.html
 
