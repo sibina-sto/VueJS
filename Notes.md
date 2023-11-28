@@ -8,5 +8,8 @@
 
 - Vue methods vs watchers vs computed properties - https://flaviocopes.com/vue-methods-watchers-computed-properties/
 
-## 03 VueUse 
-- Collection of Vue Composition Utilities - https://vueuse.org/
+VueUse - Collection of Vue Composition Utilities 
+- https://vueuse.org/
+  
+CSS Loaders 
+- https://cssloaders.github.io/ 
